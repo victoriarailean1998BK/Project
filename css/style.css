@@ -1,0 +1,29 @@
+:root {
+    font-size: 30px;
+}
+
+@media only screen and (min-width: 576px) {
+    :root {
+        font-size: 16px;
+    }
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.bg-dark{
+ background-color: rgb(41, 32, 105) !important;
+}
+.carousel-item{
+    height: 50rem;
+    margin-left: 00px;
+
+    
+}
+.about{
+    background-size: 55%;
+    background-color: red;
+    overflow:hidden;
+    padding: 100px 0;
+}
