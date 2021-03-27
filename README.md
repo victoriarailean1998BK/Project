@@ -1,4 +1,4 @@
-#Homework nr.3
+# Homework nr.3
 
 
 In this project I work with the new technology(bootstrap) and HTML,CSS.
